@@ -21,10 +21,10 @@ const Logo = styled.p`
 export const HeaderLogo = () => {
   return (
     <HeaderWrapper>
-      <Logo>LGSB</Logo>
-      <Link to="/about">
-        <p>About</p>
-      </Link>
+      <Logo>🌌</Logo>
+      <a href="https://saaliklok.com" target="blank">
+        <p>About Saalik</p>
+      </a>
     </HeaderWrapper>
   );
 };

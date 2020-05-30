@@ -1,13 +1,15 @@
 <h1 align="center">
-  Lewis Gatsby Starter Blog
+  Saalik's Blog - Musings
 </h1>
 
 <br>
 <br>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+My personal blog where I talk about mindfulness, technology, and life. Built with the awesome Lewis Gatsby Starter.
 
-Additionally, it has [ESLint](https://eslint.org/) to lint JavaScript and React, [Prettier](https://prettier.io/) to format code according to a specified set of rules, [Husky](https://github.com/typicode/husky) to automate the process before each commit, and [lint-staged](https://github.com/okonet/lint-staged) to auto-apply any linting and formatting to staged files ready to be commited.
+- React
+- Styled Components
+- Markdown
 
 <br>
 <br>
@@ -84,11 +86,3 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 <br>
 <br>
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.

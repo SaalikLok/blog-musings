@@ -3,14 +3,7 @@ import styled from 'styled-components';
 import { BREAKPOINT } from '../utils/constants';
 
 export const HeadingXL = styled.h1`
-  background: -webkit-linear-gradient(
-    240deg,
-    hsl(189, 100%, 50%),
-    hsl(174, 79%, 49%),
-    hsl(188, 81%, 59%),
-    hsl(213, 62%, 61%),
-    hsl(240, 100%, 70%)
-  );
+  background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
   display: block;
   font-size: 80px;
   letter-spacing: -4px;

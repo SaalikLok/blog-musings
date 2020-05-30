@@ -16,22 +16,45 @@ const Container = styled.footer`
   }
 `;
 
+const TextSpan = styled.span`
+  margin-right: 5vw;
+`;
+
 export const Footer = () => {
   return (
     <Container>
+      <TextSpan>&copy; Saalik Lokhandwala 2020</TextSpan>
+      <TextSpan>
+        A{' '}
+        <a
+          href="https://lytebulb.tech"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Lytebulb
+        </a>{' '}
+        Project
+      </TextSpan>
       <ButtonLink
-        href="https://mobile.twitter.com/lewislbr"
+        href="https://twitter.com/saaliklok"
         target="_blank"
         rel="noopener noreferrer"
       >
         Twitter
       </ButtonLink>
       <ButtonLink
-        href="https://github.com/lewislbr/lewis-gatsby-starter-blog"
+        href="https://github.com/saaliklok"
         target="_blank"
         rel="noopener noreferrer"
       >
         Github
+      </ButtonLink>
+      <ButtonLink
+        href="https://linkedin.com/in/saaliklok"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        LinkedIn
       </ButtonLink>
     </Container>
   );
