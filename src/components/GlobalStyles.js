@@ -6,11 +6,11 @@ import { BREAKPOINT } from '../utils/constants';
 export const GlobalStyles = createGlobalStyle`
   :root {
     --accent-color: hsl(339, 100%, 55%);
-    --dark-color: hsl(0, 0%, 15%);
+    --dark-color: #4a4a4a;
     --dark-color-light: hsla(0, 0%, 15%, 0.9);
     --dark-color-lighter: hsla(00, 0%, 15%, 0.7);
-    --light-color: hsl(0, 0%, 99%);
-    --light-color-translucent: hsla(0, 0%, 99%, 0.92);
+    --light-color: rgba(246, 237, 233, 1);
+    --light-color-translucent: rgba(246, 237, 233, 0.8);
     --sides-padding-desktop: 3%;
     --sides-padding-mobile: 5%;
   }

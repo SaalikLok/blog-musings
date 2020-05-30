@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 import { ButtonLink } from '../components';
 import { BREAKPOINT } from '../utils/constants';
+import { Button } from './Button';
 
 const Container = styled.footer`
   font-size: 17px;
@@ -23,18 +24,20 @@ const TextSpan = styled.span`
 export const Footer = () => {
   return (
     <Container>
-      <TextSpan>&copy; Saalik Lokhandwala 2020</TextSpan>
-      <TextSpan>
-        A{' '}
-        <a
-          href="https://lytebulb.tech"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Lytebulb
-        </a>{' '}
-        Project
-      </TextSpan>
+      <ButtonLink
+        href="https://saaliklok.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        &copy; Saalik Lokhandwala 2020
+      </ButtonLink>
+      <ButtonLink
+        href="https://lytebulb.tech"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        A Lytebulb Project
+      </ButtonLink>
       <ButtonLink
         href="https://twitter.com/saaliklok"
         target="_blank"
@@ -56,6 +59,7 @@ export const Footer = () => {
       >
         LinkedIn
       </ButtonLink>
+      <TextSpan>🌌</TextSpan>
     </Container>
   );
 };
