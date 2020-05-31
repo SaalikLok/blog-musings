@@ -31,6 +31,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'simple-analytics-gatsby-plugin',
+      options: {
+        trackPageViews: true
+      }
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
