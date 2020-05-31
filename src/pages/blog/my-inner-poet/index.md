@@ -1,6 +1,6 @@
 ---
 title: 'My Inner Poet'
-date: '2020-06-01'
+date: '2020-05-31'
 ---
 
 I've been writing a lot more poetry recently! It's been a long time since I've expressed myself through the medium, but the pandemic clearly has pulled something out of me, emotionally that I felt I needed to express.
