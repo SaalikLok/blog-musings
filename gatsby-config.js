@@ -31,7 +31,7 @@ module.exports = {
       },
     },
     {
-      resolve: 'simple-analytics-gatsby-plugin',
+      resolve: 'gatsby-plugin-simple-analytics',
       options: {
         trackPageViews: true
       }
