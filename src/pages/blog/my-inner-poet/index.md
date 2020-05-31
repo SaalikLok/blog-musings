@@ -1,5 +1,5 @@
 ---
-title: 'Gratitude for Tech'
+title: 'My Inner Poet'
 date: '2020-06-01'
 ---
 
