@@ -3,9 +3,9 @@ title: 'My Inner Poet'
 date: '2020-05-31'
 ---
 
-I've been writing a lot more poetry recently! It's been a long time since I've expressed myself through the medium, but the pandemic clearly has pulled something out of me, emotionally that I felt I needed to express.
+I've been writing a lot more poetry recently! It's been a long time since I've expressed myself through the medium, but the pandemic clearly has pulled on something emotionally that I felt I needed to express.
 
-Now, I feel that poetry is a critical form of expression for me to authentically express my truth. There are thoughts and feelings that simply can't be conveyed through direct and concrete prose. That gray space, where we play with uncertainties and explore the edges of our understanding, that's where poetry lives. 
+I feel that poetry is a critical form of expression for me to authentically express my truth. There are thoughts and feelings that simply can't be conveyed through direct and concrete prose. That gray space, where we play with uncertainties and explore the edges of our understanding, that's where poetry lives. 
 
 The other day, I participated in a virtual poetry workshop with [Startup Island](https://joinstartupisland.com), and one of the questions posed to us was "Who is your inner poet?" I wanted to share my answer.
 
