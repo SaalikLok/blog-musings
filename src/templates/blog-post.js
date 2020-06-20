@@ -7,8 +7,9 @@ import {
   Layout,
   SEO,
   TextBody,
-  TextDate,
+  TextDate
 } from '../components';
+import PostFooter from '../components/PostFooter';
 
 const BlogPost = ({ data }) => {
   const post = data.markdownRemark;
@@ -21,6 +22,7 @@ const BlogPost = ({ data }) => {
         <HeadingXL>{post.frontmatter.title}</HeadingXL>
         <TextDate>{post.frontmatter.date}</TextDate>
         <TextBody dangerouslySetInnerHTML={{ __html: post.html }} />
+        <PostFooter/>
       </Layout>
     </>
   );
