@@ -57,7 +57,7 @@ const Home = ({ data }) => {
         <Hero>
           <HeadingXL>MUSINGS</HeadingXL>
           <TextHome>
-            A blog about mindfulness, tech, and life <br/> ~ by <a href="https://saaliklok.com">Saalik Lokhandwala</a>
+            On mindfulness, tech, and life <br/> ~ built and written by <a href="https://saaliklok.com">Saalik Lokhandwala</a>
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({ node }) => (
