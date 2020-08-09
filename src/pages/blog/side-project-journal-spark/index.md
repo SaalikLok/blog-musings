@@ -17,7 +17,7 @@ As I'm deepening my full stack React knowledge, GraphQL is a critically importan
 
 It's hosted using the Heroku free account (for now) but we'll see if there's some interest and usage!
 
-If people (or myself) start using the API more regularly in projects, I'll add more quotes to it and ultimately throw a bit of money at Heroku to host it more performably.
+If people (or myself) start using the API more regularly, I'll add more quotes to it and ultimately throw a bit of money at Heroku to make it more performable.
 
 If you're a developer, I'd love to hear your thoughts and any feedback you have on the project. 
 
