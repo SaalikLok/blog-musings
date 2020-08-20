@@ -5,7 +5,7 @@ import { BREAKPOINT } from '../utils/constants';
 
 export const GlobalStyles = createGlobalStyle`
   :root {
-    --accent-color: hsl(339, 100%, 55%);
+    --accent-color: #667eea;
     --dark-color: #4a4a4a;
     --dark-color-light: hsla(0, 0%, 15%, 0.9);
     --dark-color-lighter: hsla(00, 0%, 15%, 0.7);
