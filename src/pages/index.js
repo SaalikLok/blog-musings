@@ -13,7 +13,6 @@ import {
   TextBody,
   TextDate,
 } from '../components';
-import EmailForm from '../components/EmailForm';
 
 const Hero = styled.div`
   margin-bottom: 20vh;
@@ -60,7 +59,6 @@ const Home = ({ data }) => {
           <TextHome>
             A blog about mindfulness, tech, and life <br/> ~ by <a href="https://saaliklok.com">Saalik Lokhandwala</a>
           </TextHome>
-          <EmailForm/>
         </Hero>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <Link to={node.fields.slug} key={node.id}>
