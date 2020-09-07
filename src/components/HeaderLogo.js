@@ -21,7 +21,10 @@ const Logo = styled.p`
 export const HeaderLogo = () => {
   return (
     <HeaderWrapper>
-      <Logo>🌌</Logo>
+      <Link to="/">
+        <Logo>🌌</Logo>
+      </Link>
+      <Link to="/microblog">Microblog</Link>
       <a href="https://saaliklok.com" target="blank">
         <p>About Saalik</p>
       </a>
