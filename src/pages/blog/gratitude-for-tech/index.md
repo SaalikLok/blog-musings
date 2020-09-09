@@ -3,11 +3,11 @@ title: 'Gratitude for Tech'
 date: '2020-05-30'
 ---
 
-There are a few prevailing narratives on technology out there. Generally, they tend to flip between frustration that tech is dehumanizing, taking us away from the moment, and that technology is an absolutely necessary mechanism for survival that we can't live without. 
+There are a few prevailing narratives on technology out there. Generally, they tend to flip between frustration that tech is dehumanizing, taking us away from the moment, and that technology is an absolutely necessary mechanism for survival that we can't live without.
 
 I would venture to guess that both of these notions are correct in some capacity. Our opinions on technology are strong.
 
-But when do we really look at technology with dispassionate gratitude? There's so much we can notice about how technology has fundamentally impacts the way we live. How many times do we stop to notice, without judging or applying our opinions on the impact of tech? 
+But when do we really look at technology with dispassionate gratitude? There's so much we can notice about how technology has fundamentally impacts the way we live. How many times do we stop to notice, without judging or applying our opinions on the impact of tech?
 
 In times like these, our connection to humanity relies upon the tech's capability to connect us.
 

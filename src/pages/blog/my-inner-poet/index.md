@@ -5,15 +5,15 @@ date: '2020-05-31'
 
 I've been writing a lot more poetry recently! It's been a long time since I've expressed myself through the medium, but the pandemic clearly has pulled on something emotionally that I felt I needed to express.
 
-I feel that poetry is a critical form of expression for me to authentically express my truth. There are thoughts and feelings that simply can't be conveyed through direct and concrete prose. That gray space, where we play with uncertainties and explore the edges of our understanding, that's where poetry lives. 
+I feel that poetry is a critical form of expression for me to authentically express my truth. There are thoughts and feelings that simply can't be conveyed through direct and concrete prose. That gray space, where we play with uncertainties and explore the edges of our understanding, that's where poetry lives.
 
 The other day, I participated in a virtual poetry workshop with [Startup Island](https://joinstartupisland.com), and one of the questions posed to us was "Who is your inner poet?" I wanted to share my answer.
 
 ### Who is your inner poet?
 
-My inner poet is a thoughtful, mystical, deeply connected person. He unlocks the connectivitiy between disparate objects, opening portals to understandings and realizations unknown. He is abundant. There is no end to his flow of words or the bumps in his rhythm. He is undoubtedly deep. 
+My inner poet is a thoughtful, mystical, deeply connected person. He unlocks the connectivitiy between disparate objects, opening portals to understandings and realizations unknown. He is abundant. There is no end to his flow of words or the bumps in his rhythm. He is undoubtedly deep.
 
-My inner poet is also challenged. He's struggling with the depth of a realization. And moreso, he's struggling to reach the Divine through his expression and words. He's on his journey, and like any good journey, the road is littered with obstacles. 
+My inner poet is also challenged. He's struggling with the depth of a realization. And moreso, he's struggling to reach the Divine through his expression and words. He's on his journey, and like any good journey, the road is littered with obstacles.
 
 He can overcome these obstacles with merely a pen and a leaf of paper.
 

@@ -13,10 +13,10 @@ The truth is, the weeks following the brutal murder of George Floyd was one of i
 
 Here are some of my learnings, the ones I can put words to, at least.
 
-- My energy and my commitment to educating myself on the history of being Black *is* action. I won't beat myself up for not feeling "active" about this.
+- My energy and my commitment to educating myself on the history of being Black _is_ action. I won't beat myself up for not feeling "active" about this.
 - Genuine intention to create a better world for all of us can be as powerful as being a demonstrator at a protest. If I can show up as an ally — with genuine understanding, caring and commitment, I can be a small part of the change we so desperately need now, and that makes me valuable.
 - I know that the systematic oppression of black people in America is not going to transform overnight. But I do know that this moment in history is critical for our futures, for all of us. It can be the turning point where the eyes of blind nation have the fog cleared, and with clarity and understanding — we can begin to heal and love.
-- My privilege isn't something that makes my voice unworthy. In fact, I should be speaking more because I *am* privileged. 
+- My privilege isn't something that makes my voice unworthy. In fact, I should be speaking more because I _am_ privileged.
 - There is no perfect thing to say. There's no perfect time to say it. There's no perfect expression of what I'm feeling and what I want to do. But saying nothing says a lot more than speaking the truth as authentically as is possible.
 
 With a moment of silence for George Floyd and the countless other lives lost to police brutality, I hope to be a part of making the world a little brighter tomorrow.

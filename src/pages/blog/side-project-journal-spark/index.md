@@ -3,7 +3,7 @@ title: 'Side Project Journal: Spark API'
 date: '2020-08-09'
 ---
 
-TL;DR - Spark is a dead-simple GraphQL API of inspirational quotes meant to inspire end users. 
+TL;DR - Spark is a dead-simple GraphQL API of inspirational quotes meant to inspire end users.
 
 Check it out here: [https://github.com/SaalikLok/Spark-API](https://github.com/SaalikLok/Spark-API)
 
@@ -19,6 +19,6 @@ It's hosted using the Heroku free account (for now) but we'll see if there's som
 
 If people (or myself) start using the API more regularly, I'll add more quotes to it and ultimately throw a bit of money at Heroku to make it more performable.
 
-If you're a developer, I'd love to hear your thoughts and any feedback you have on the project. 
+If you're a developer, I'd love to hear your thoughts and any feedback you have on the project.
 
 There are a few more fun things in store on the horizon, which I'm super excited to share soon, so stay tuned!

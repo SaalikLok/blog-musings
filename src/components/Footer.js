@@ -3,7 +3,6 @@ import styled from 'styled-components';
 
 import { ButtonLink } from '../components';
 import { BREAKPOINT } from '../utils/constants';
-import { Button } from './Button';
 
 const Container = styled.footer`
   font-size: 17px;
