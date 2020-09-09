@@ -71,6 +71,3 @@ yarn.lock
 .firebase/hosting.cHVibGlj.cache
 .firebaserc
 firebase.json
-
-# Blog posts
-blog/
