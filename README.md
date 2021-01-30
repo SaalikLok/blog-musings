@@ -1,3 +1,6 @@
+<h3>~DEPRECATED~</h3>
+This is no longer where I host my blog. Check out [saaliklok.com](https://saaliklok.com) for the newest version.
+
 <h1 align="center">
   Saalik's Blog - Musings
 </h1>
